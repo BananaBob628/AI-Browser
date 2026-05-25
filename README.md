@@ -34,4 +34,8 @@ Go to the releases, then click the latest one.
 Then extract the .zip file and run the `Dependencies-Installer-[RUN-FIRST].bat`
 Now run the `AI-Browser.exe` and it's now installed!
 
+---
+##If you are wondering NO this is not a virus.
+you can go to virus total and scan it, open a VM and you wont find anywhere that this AI generated program is a virus. I don't even know how to code, so thats why it's AI. I also gave you the code so you can look through it to ensure it's not a virus. So if you get a windows protected your PC popup, it's only doing that because python sometimes does that and I have no idea why. If you are wondering how to bypass that popup, you click more info, then run anyway.
+
 

@@ -30,10 +30,8 @@ The name **AI Browser** literally means **“made with AI”** — from the UI l
 
 ## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourname/ai-browser.git
-cd ai-browser
+Go to the releases, then click the latest one.
+Then extract the .zip file and run the `Dependencies-Installer-[RUN-FIRST].bat`
+Now run the `AI-Browser.exe` and it's now installed!
 
 

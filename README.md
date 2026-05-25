@@ -2,7 +2,7 @@
 ### A modern Python web browser — **made with AI**
 
 AI Browser is a sleek, intelligent, and lightweight web browser built in Python and designed with the help of AI.  
-The name **AI Browser** literally means **“made with AI”** — from the UI layout to the code structure, the project was created with AI‑assisted development using CodeX.
+The name **AI Browser** literally means **“made with AI”** — from the UI layout to the code structure, the project was created with AI‑assisted development using CodeX. 
 
 ---
 
